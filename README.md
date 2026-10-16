@@ -50,7 +50,7 @@
 | Project | Description | Status |
 | :--- | :--- | :--- |
 | **`librify`** | Modern, local-first audio player built for speed and simplicity | `In Development` |
-| **`craftcut`** | Fast and streamlined timeline utility for video clipping & compression | `Concept / MVP` |
+| **`craftcut`** | Fast and streamlined timeline utility for video clipping & compression | `In Development` |
 
 ---
 
@@ -74,7 +74,7 @@ Continuous design: Geometric typography, balanced contrast, and visual restraint
 Interested in collaborating or sharing ideas?
 <div align="center">
 <p>
-<a href="mailto:seu-email@dominio.com">
+<a href="mailto:rickystudios.hub@gmail.com">
 <img src="https://img.shields.io/badge/Email-26292d?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 <a href="https://github.com/rickystudios-hub">
